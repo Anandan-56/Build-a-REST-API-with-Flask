@@ -81,7 +81,8 @@ Keep this terminal window open
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3eefa77b-89ae-4a1b-86a2-ade06549e6ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7799cb67-df02-4efd-b3eb-a915ad2ad5e3" />
+
 
 
 5. Delete User (DELETE)**
