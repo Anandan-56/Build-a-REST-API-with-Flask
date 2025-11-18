@@ -59,7 +59,8 @@ Keep this terminal window open
 # 📡 **API Endpoints**
 
  ✔ 1. Create User (POST)
- <img width="1920" height="1080" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/ca282ad0-6c7a-43f3-a2da-f6ba9a6303a1" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/decc7cba-6528-4dd5-82ad-957ce77beb30" />
+
 
 
 
